@@ -3,6 +3,6 @@ package com.atguigu.hello;
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("main2");
+		System.out.println("main");
 	}
 }
